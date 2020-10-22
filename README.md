@@ -2,7 +2,6 @@
 
 My name is Meghshyam, I am full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> looking to solve real world problems. I enjoy solving problems, troubleshooting issues, challenge of finding a way and discovering solutions in a timely manner. As long as there's a problem to solve or a challenge to puzzle over, it's bound to be something I love! You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-![](https://visitor-badge.glitch.me/badge?page_id=meghshyams)
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -69,6 +68,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [1]: https://twitter.com/meghashyamss
 [2]: https://github.com/meghshyams
 [3]: https://www.linkedin.com/in/meghshyams/
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=meghshyams)
 
 
 <!-- Resources -->
