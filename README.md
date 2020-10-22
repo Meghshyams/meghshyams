@@ -4,6 +4,8 @@ My name is Meghshyam, I am full stack developer looking to solve real world prob
 
 ![](https://visitor-badge.glitch.me/badge?page_id=meghshyams)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
