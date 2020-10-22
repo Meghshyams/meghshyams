@@ -24,7 +24,7 @@ npx meghshyamss
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>    
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> ![](https://visitor-badge.glitch.me/badge?page_id=meghshyams)
 
 <!-- links to social media icons -->
 
@@ -47,7 +47,7 @@ npx meghshyamss
 [3]: https://www.linkedin.com/in/meghshyams/
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=meghshyams)
+
 
 
 <!-- Resources -->
