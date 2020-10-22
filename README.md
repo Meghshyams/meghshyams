@@ -27,14 +27,14 @@ npx meghshyamss
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> ![](https://visitor-badge.glitch.me/badge?page_id=meghshyams)
 
 ##  
-
+<center> 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jatinrao/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/jatin2003/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/iamjatinrao/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/jatinrao.dev/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/3Ks7sMA)
-
+</center>
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
