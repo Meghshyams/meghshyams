@@ -22,11 +22,13 @@ npx meghshyamss
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=JQuery&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=NodeJs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat&logo=VSCODE&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Brackets-informational?style=flat&logo=Brackets&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 
 
