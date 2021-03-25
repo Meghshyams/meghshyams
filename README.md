@@ -4,10 +4,11 @@ My name is Meghshyam, I am full stack developer <img src="https://media.giphy.co
 
 
 👇 Hit in your console or terminal to connect with me.
-
+<!--
 ```bash
 npx meghshyamss
 ```
+-->
 
 ## 🔧 Technologies & Tools
 
