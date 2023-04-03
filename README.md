@@ -2,13 +2,13 @@
 
 My name is Meghshyam, I am full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> looking to solve real world problems. I enjoy solving problems, troubleshooting issues, challenge of finding a way and discovering solutions in a timely manner. As long as there's a problem to solve or a challenge to puzzle over, it's bound to be something I love! You can find me on [![LinkedIn][3.2]][3].
 
-<!--
+
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
 npx meghshyamss
 ```
--->
+
 
 ## 🔧 Technologies & Tools
 
